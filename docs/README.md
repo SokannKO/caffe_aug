@@ -1,3 +1,7 @@
+# Caffe - data augmentation
+
+added data augmentation params based on v.0.16.2
+
 # Caffe Documentation
 
 To generate the documentation, run `$CAFFE_ROOT/scripts/build_docs.sh`.
